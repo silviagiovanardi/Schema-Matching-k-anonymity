@@ -1,0 +1,30 @@
+Dataset,Colonna Sorgente,Colonna Target OMOP,Descrizione Target,Similarità
+labels,gender_concept_id,gender_concept_id,"Gender of the person (e.g. male, female)",0.125
+labels,race_concept_id,race_concept_id,"Race or ethnicity (e.g. White, Asian, Black)",0.111
+labels,year_of_birth,year_of_birth,"Year of birth (e.g. 1970, 1985)",0.043
+labels,condition_1,gender_concept_id,"Gender of the person (e.g. male, female)",0.0
+labels,condition_2,gender_concept_id,"Gender of the person (e.g. male, female)",0.0
+labels,observation_1,gender_concept_id,"Gender of the person (e.g. male, female)",0.0
+labels,observation_2,gender_concept_id,"Gender of the person (e.g. male, female)",0.0
+labels,procedure_1,gender_concept_id,"Gender of the person (e.g. male, female)",0.0
+labels,procedure_2,gender_concept_id,"Gender of the person (e.g. male, female)",0.0
+labels,gender_concept_id_name,gender_concept_id,"Gender of the person (e.g. male, female)",0.394
+labels,race_concept_id_name,race_concept_id,"Race or ethnicity (e.g. White, Asian, Black)",0.143
+labels,condition_1_name,condition_concept_id,"Medical condition diagnosis (e.g. diabetes, hypertension)",0.048
+labels,condition_2_name,condition_concept_id,"Medical condition diagnosis (e.g. diabetes, hypertension)",0.018
+labels,observation_1_name,observation_concept_id,"Clinical observation or measurement (e.g. BMI, blood pressure)",0.034
+labels,observation_2_name,procedure_concept_id,"Medical procedure code (e.g. appendectomy, ECG)",0.034
+labels,procedure_1_name,condition_concept_id,"Medical condition diagnosis (e.g. diabetes, hypertension)",0.025
+labels,procedure_2_name,condition_concept_id,"Medical condition diagnosis (e.g. diabetes, hypertension)",0.033
+k2,gender_concept_id,gender_concept_id,"Gender of the person (e.g. male, female)",0.115
+k2,race_concept_id,race_concept_id,"Race or ethnicity (e.g. White, Asian, Black)",0.103
+k2,year_decade,year_of_birth,"Year of birth (e.g. 1970, 1985)",0.044
+k2,condition_1_name_softcat,condition_concept_id,"Medical condition diagnosis (e.g. diabetes, hypertension)",0.021
+k2,procedure_1_name_softcat,condition_concept_id,"Medical condition diagnosis (e.g. diabetes, hypertension)",0.027
+k2,observation_1_name_softcat,observation_concept_id,"Clinical observation or measurement (e.g. BMI, blood pressure)",0.126
+k3,gender_concept_id,gender_concept_id,"Gender of the person (e.g. male, female)",0.115
+k3,race_concept_id,race_concept_id,"Race or ethnicity (e.g. White, Asian, Black)",0.103
+k3,year_decade,year_of_birth,"Year of birth (e.g. 1970, 1985)",0.044
+k3,condition_1_name_cat,gender_concept_id,"Gender of the person (e.g. male, female)",0.0
+k3,procedure_1_name_cat,gender_concept_id,"Gender of the person (e.g. male, female)",0.0
+k3,observation_1_name_cat,observation_concept_id,"Clinical observation or measurement (e.g. BMI, blood pressure)",0.125

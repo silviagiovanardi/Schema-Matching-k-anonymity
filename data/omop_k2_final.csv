@@ -1,0 +1,417 @@
+person_id,gender_concept_id,race_concept_id,year_decade,condition_1_name_softcat,procedure_1_name_softcat,observation_1_name_softcat
+785380,8507,8527,1930-1939,abdominal tenderness of left lower quadrant,"magnetic resonance (eg, proton) imaging, abdomen; without contrast material(s)",Observation
+326470,8507,8527,1930-1939,Diabetes,collection of venous blood by venipuncture,Observation
+1447016,8532,8527,1920-1929,intestinal obstruction,"computed tomography, pelvis; without contrast material",Observation
+1971354,8532,8527,1920-1929,prolapse of urethra,"anterior colporrhaphy, repair of cystocele with or without repair of urethrocele",Observation
+508473,8507,8527,1940-1949,open wound of external ear without complication,physical therapy exercises,Observation
+2232893,8532,8527,1930-1939,shoulder stiff,disarticulation of wrist,Observation
+410213,8532,8527,1930-1939,open fracture of vault of skull with cerebral laceration and/or contusion,"application of external fixator device, humerus",Observation
+1685620,8532,8527,1940-1949,lung involvement associated with another disorder,endoscopic dilation of ampulla and biliary duct,Observation
+908960,8532,8527,1940-1949,atypical depressive disorder,no matching concept,Observation
+1494944,8532,8527,1930-1939,Cancer,"computed tomography, abdomen; with contrast material(s)",Observation
+733944,8507,8516,1950-1959,disorder of salivary gland,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a comprehensive history; a comprehensive examination; medical decision making of high complexity. counseling",Observation
+953220,8532,8516,1930-1939,sideroblastic anemia,collection of venous blood by venipuncture,Observation
+1597377,8507,8527,1910-1919,generalized anxiety disorder,no matching concept,Observation
+1338625,8507,8527,1920-1929,Cardiovascular,"initial hospital care, per day, for the evaluation and management of a patient, which requires these 3 key components: a comprehensive history; a comprehensive examination; and medical decision making of moderate complexity. counseling and/or coordination",Observation
+1114316,8507,8527,1930-1939,urinary tract infectious disease,"emergency department visit for the evaluation and management of a patient, which requires these 3 key components: a detailed history; a detailed examination; and medical decision making of moderate complexity. counseling and/or coordination of care with o",Observation
+240054,8507,8527,1930-1939,aseptic necrosis of bone,application of a modality to 1 or more areas; paraffin bath,Observation
+2074793,8532,8527,1920-1929,chronic fatigue syndrome,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a comprehensive history; a comprehensive examination; medical decision making of high complexity. counseling",Observation
+2161495,8532,8527,1930-1939,retinal lattice degeneration,no matching concept,Observation
+2136328,8507,8527,1940-1949,sciatica,"injection(s), of diagnostic or therapeutic substance(s) (including anesthetic, antispasmodic, opioid, steroid, other solution), not including neurolytic substances, including needle or catheter placement, includes contrast for localization when performed,",Observation
+413078,8532,8527,1910-1919,urinary tract infectious disease,"prescription, fitting, and dispensing of contact lens",Observation
+1970430,8532,8527,1920-1929,Cancer,"office or other outpatient visit for the evaluation and management of a new patient, which requires these 3 key components: a detailed history; a detailed examination; medical decision making of low complexity. counseling and/or coordination of care with ",Observation
+1928496,8532,8527,1920-1929,primary open angle glaucoma,"arthrocentesis, aspiration and/or injection, major joint or bursa (eg, shoulder, hip, knee, subacromial bursa); without ultrasound guidance",Observation
+799561,8532,8527,1940-1949,carpal tunnel syndrome,"application of external fixator device, radius and ulna",Observation
+1448619,8532,8527,1950-1959,Diabetes,"closed reduction of fracture without internal fixation, radius and ulna",Observation
+2151952,8532,8527,1930-1939,atrial fibrillation,cardioplegia,Observation
+425362,8532,0,1950-1959,impulse control disorder,"open reduction of fracture with internal fixation, unspecified site",Observation
+1932201,8507,8527,1930-1939,no matching concept,other repair of bladder,Observation
+1429383,8507,8527,1930-1939,chest pain,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a detailed history; a detailed examination; medical decision making of moderate complexity. counseling and/o",Observation
+1884887,8507,8527,1930-1939,no matching concept,release of urethral stricture,Observation
+587738,8532,8527,1960-1969,chronic paranoid schizophrenia,no matching concept,Observation
+1462307,8532,8527,1920-1929,Diabetes,"ophthalmological services: medical examination and evaluation, with initiation or continuation of diagnostic and treatment program; comprehensive, established patient, 1 or more visits",Observation
+700355,8532,8527,1940-1949,intervertebral disc disorder of lumbar region with myelopathy,physical therapy evaluation,Observation
+1387634,8507,8516,1940-1949,retinal edema,"radiologic examination, chest; single view, frontal",Observation
+1758273,8532,0,1930-1939,abdominal rigidity of left lower quadrant,"radiologic examination, chest; single view, frontal",Observation
+1342447,8507,8527,1920-1929,vitreous abscess,biopsy of lymphatic structure,Observation
+1837966,8507,8527,1920-1929,actinic keratosis,"office or other outpatient visit for the evaluation and management of a new patient, which requires these 3 key components: a detailed history; a detailed examination; medical decision making of low complexity. counseling and/or coordination of care with ",Observation
+256001,8507,8527,1930-1939,disorder of artery,other and open repair of direct inguinal hernia with graft or prosthesis,Observation
+1942926,8507,8527,1940-1949,end stage renal disease,dialysis procedure,Observation
+744241,8532,8527,1920-1929,pain in limb,other resection of rectum,Observation
+1654242,8532,8527,1920-1929,postablative hypothyroidism,biopsy of uvula and soft palate,Observation
+1179336,8532,8527,1930-1939,female genital organ symptoms,Cancer,Observation
+463770,8532,8527,1920-1929,dyspnea,"therapeutic, prophylactic, or diagnostic injection (specify substance or drug); intravenous push, single or initial substance/drug",Observation
+2103451,8532,8527,1940-1949,tonic pupillary reaction,"ophthalmological services: medical examination and evaluation, with initiation or continuation of diagnostic and treatment program; intermediate, established patient",Observation
+1726807,8532,8527,1930-1939,pure hypercholesterolemia,biopsy of lymphatic structure,Observation
+770580,8532,8527,1940-1949,pain in limb,"office or other outpatient visit for the evaluation and management of a new patient, which requires these 3 key components: a detailed history; a detailed examination; medical decision making of low complexity. counseling and/or coordination of care with ",Observation
+2114092,8532,0,1940-1949,allergic rhinitis,biopsy of lymphatic structure,Observation
+192008,8507,8527,1930-1939,Diabetes,"office or other outpatient visit for the evaluation and management of a new patient, which requires these 3 key components: a detailed history; a detailed examination; medical decision making of low complexity. counseling and/or coordination of care with ",Observation
+349456,8507,8527,1930-1939,vitamin d deficiency,"screening papanicolaou smear; obtaining, preparing and conveyance of cervical or vaginal smear to laboratory",Observation
+2071330,8507,8527,1930-1939,anemia,"biopsy of mouth, unspecified structure",Observation
+134985,8507,8527,1950-1959,cholinergic urticaria,other repair of uterus and supporting structures,Observation
+2019191,8507,8527,1940-1949,generalized anxiety disorder,no matching concept,Observation
+1011006,8532,8527,1940-1949,atrial fibrillation,collection of venous blood by venipuncture,Observation
+1900878,8532,8527,1930-1939,Respiratory,other incision of bile duct,Observation
+1869321,8532,8527,1940-1949,cataract in eye inflammatory disorder,anesthesia for procedures on eye; lens surgery,Observation
+1463495,8532,0,1910-1919,shoulder joint pain,appendectomy,Observation
+2004953,8507,0,1940-1949,urinary tract infectious disease,"initial hospital care, per day, for the evaluation and management of a patient, which requires these 3 key components: a comprehensive history; a comprehensive examination; and medical decision making of moderate complexity. counseling and/or coordination",Observation
+954877,8507,8527,1920-1929,plantar fasciitis,"injection(s); single tendon sheath, or ligament, aponeurosis (eg, plantar  fascia )",Observation
+520970,8507,8527,1930-1939,low blood pressure,"unspecified operation on bone injury, carpals and metacarpals",Observation
+15566,8507,8527,1940-1949,Diabetes,"closed reduction of fracture with internal fixation, tibia and fibula",Observation
+761758,8507,8527,1950-1959,"localized, primary osteoarthritis of the shoulder region",injection procedure for hip arthrography; without anesthesia,Observation
+1768996,8507,8527,1940-1949,chest pain,no matching concept,Observation
+463870,8532,8527,1930-1939,Cardiovascular,"limb shortening procedures, radius and ulna",Observation
+1840950,8532,8527,1930-1939,Diabetes,collection of venous blood by venipuncture,Observation
+72547,8532,8527,1940-1949,low back pain,"injection(s), of diagnostic or therapeutic substance(s) (including anesthetic, antispasmodic, opioid, steroid, other solution), not including neurolytic substances, including needle or catheter placement, includes contrast for localization when performed,",Observation
+564067,8507,8516,1960-1969,altered mental status,dilation of urethra,Observation
+1798389,8532,8516,1940-1949,spasm,no matching concept,Observation
+118548,8507,0,1960-1969,osteoporosis,biopsy of lymphatic structure,Observation
+2051509,8507,8527,1930-1939,general clinical state finding,"unspecified operation on bone injury, carpals and metacarpals",Observation
+565780,8507,8527,1930-1939,Diabetes,"bone graft, humerus",Observation
+1109454,8507,8527,1930-1939,carcinoma in situ of skin of lip,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: an expanded problem focused history; an expanded problem focused examination; medical decision making of low",Observation
+1299029,8532,8527,1920-1929,no matching concept,"radiologic examination, chest; single view, frontal",Observation
+1272340,8532,8527,1920-1929,chest pain,hospital discharge day management; 30 minutes or less,Observation
+2315190,8532,8527,1920-1929,atrial fibrillation,biopsy of lymphatic structure,Observation
+415970,8507,8527,1950-1959,abdominal pain,division of endometrial synechiae,Observation
+744682,8532,8527,1920-1929,nausea and vomiting,"removal of implanted devices from bone, carpals and metacarpals",Observation
+2215622,8532,8527,1940-1949,atrial fibrillation,"office or other outpatient visit for the evaluation and management of an established patient, that may not require the presence of a physician or other qualified health care professional. usually, the presenting problem(s) are minimal. typically, 5 minute",Observation
+1967759,8532,8527,1940-1949,infarction - precerebral,gastrotomy,Observation
+1901835,8532,8527,1950-1959,atrial fibrillation,other diagnostic procedures on lymphatic structures,Observation
+1671032,8532,0,1920-1929,enthesopathy of knee,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a problem focused history; a problem focused examination; straightforward medical decision making. counselin",Observation
+397355,8532,8527,1930-1939,metabolic syndrome x,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a comprehensive history; a comprehensive examination; medical decision making of high complexity. counseling",Observation
+1378046,8532,8527,1910-1919,degenerative brain disorder,no matching concept,Observation
+838940,8532,8527,1920-1929,atrial fibrillation,other excision of common duct,Observation
+695231,8532,8527,1930-1939,constipation,"osteoclasis, radius and ulna",Observation
+1791108,8532,8527,1930-1939,localized traumatic opacity,"ophthalmological services: medical examination and evaluation, with initiation or continuation of diagnostic and treatment program; comprehensive, established patient, 1 or more visits",Observation
+1927337,8532,8527,1930-1939,disuse osteoporosis,"dual-energy x-ray absorptiometry (dxa), bone density study, 1 or more sites; axial skeleton (eg, hips, pelvis, spine)",Observation
+1923945,8532,8516,1910-1919,frank hematuria,"office or other outpatient visit for the evaluation and management of a new patient, which requires these 3 key components: a detailed history; a detailed examination; medical decision making of low complexity. counseling and/or coordination of care with ",Observation
+909014,8507,8527,1930-1939,acquired hypertrophic pyloric stenosis,collection of venous blood by venipuncture,Observation
+964477,8507,8527,1920-1929,altered mental status,biopsy of bony palate,Observation
+522873,8532,8527,1920-1929,actinic keratosis,other vaginotomy,Observation
+1628667,8507,8527,1940-1949,osteoarthritis,"magnetic resonance angiography, head; without contrast material(s)",Observation
+1994684,8507,8527,1940-1949,closed fracture of one rib,injection or infusion of biological response modifier [brm] as an antineoplastic agent,Observation
+982056,8532,8527,1930-1939,atrial flutter,collection of venous blood by venipuncture,Observation
+18756,8532,8527,1930-1939,arthropathy,"radiologic examination, femur, 2 views",Observation
+1691005,8532,8527,1930-1939,single major depressive episode,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a detailed history; a detailed examination; medical decision making of moderate complexity. counseling and/o",Observation
+1157781,8532,8516,1970-1979,Diabetes,extraction of other tooth,Observation
+2012770,8532,8516,1940-1949,impotence of organic origin,excision of anus,Observation
+433028,8507,8527,1930-1939,chest pain,other diagnostic procedures on lymphatic structures,Observation
+1743125,8507,8527,1930-1939,ulcer of foot,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: an expanded problem focused history; an expanded problem focused examination; medical decision making of low",Observation
+2105841,8507,8527,1930-1939,Diabetes,other antesternal anastomosis of esophagus,Observation
+528459,8532,8527,1910-1919,shoulder joint pain,collection of venous blood by venipuncture,Observation
+2108909,8507,8527,1940-1949,peripheral arterial occlusive disease,other diagnostic procedures on lymphatic structures,Observation
+2280687,8532,8527,1930-1939,actinic keratosis,"office or other outpatient visit for the evaluation and management of a new patient, which requires these 3 key components: an expanded problem focused history; an expanded problem focused examination; straightforward medical decision making. counseling a",Observation
+2032611,8532,8527,1940-1949,vitamin d deficiency,collection of venous blood by venipuncture,Observation
+2140673,8532,8516,1970-1979,schmorl's nodes,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: an expanded problem focused history; an expanded problem focused examination; medical decision making of low",Observation
+1294721,8532,0,1910-1919,disorder of bone and articular cartilage,"biopsy of mouth, unspecified structure",Observation
+1425210,8507,8527,1920-1929,pain in limb,radial keratotomy,Observation
+2211773,8507,8527,1920-1929,chronic peptic ulcer with perforation but without obstruction,Cancer,Observation
+2028295,8532,8527,1920-1929,Cancer,other and unspecified robotic assisted procedure,Observation
+1954348,8532,8527,1920-1929,arthralgia of the pelvic region and thigh,"radiologic examination, chest; single view, frontal",Observation
+1234443,8532,8527,1920-1929,ulcer of foot,collection of venous blood by venipuncture,Observation
+1400531,8532,8527,1930-1939,osteoporosis,other diagnostic procedures on lymphatic structures,Observation
+717254,8532,8527,1930-1939,lumbosacral spondylosis without myelopathy,"computed tomography, lumbar spine; without contrast material",Observation
+293157,8532,8527,1940-1949,atrial fibrillation,no matching concept,Observation
+285861,8532,0,1920-1929,generalized convulsive epilepsy,suture of laceration of palate,Observation
+1233375,8532,0,1940-1949,multiple nerve injury,"radiologic examination; humerus, minimum of 2 views",Observation
+1368990,8507,8527,1920-1929,posterior rhinorrhea,"immunization administration (includes percutaneous, intradermal, subcutaneous, or intramuscular injections); 1 vaccine (single or combination vaccine/toxoid)",Observation
+1173935,8507,8527,1920-1929,diarrhea,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: an expanded problem focused history; an expanded problem focused examination; medical decision making of low",Observation
+560878,8507,8527,1940-1949,chest pain,"radiologic examination, chest, 2 views, frontal and lateral",Observation
+261989,8507,8527,1940-1949,injury of head,"microscopic examination of specimen from lower gastrointestinal tract and of stool, culture",Observation
+538789,8532,8527,1920-1929,no matching concept,"office or other outpatient visit for the evaluation and management of a new patient, which requires these 3 key components: a detailed history; a detailed examination; medical decision making of low complexity. counseling and/or coordination of care with ",Observation
+829762,8532,8527,1930-1939,incisional hernia,collection of venous blood by venipuncture,Observation
+1530938,8532,8527,1930-1939,ingrowing nail,diagnostic procedures on vagina and cul-de-sac,Observation
+1972624,8532,8527,1940-1949,vitreous hemorrhage,excision of anus,Observation
+641081,8532,8527,1940-1949,sensorineural hearing loss,"office consultation for a new or established patient, which requires these 3 key components: an expanded problem focused history; an expanded problem focused examination; and straightforward medical decision making. counseling and/or coordination of care ",Observation
+561072,8532,8527,1930-1939,orthopnea,"removal of implanted devices from bone, humerus",Observation
+579880,8507,8527,1930-1939,bronchiectasis,excision of anus,Observation
+96252,8507,8527,1930-1939,Cardiovascular,collection of venous blood by venipuncture,Observation
+1485421,8507,8527,1930-1939,Respiratory,"subsequent hospital care, per day, for the evaluation and management of a patient, which requires at least 2 of these 3 key components: an expanded problem focused interval history; an expanded problem focused examination; medical decision making of moder",Observation
+1741430,8507,8527,1920-1929,primary open angle glaucoma,fundus photography with interpretation and report,Observation
+1571235,8507,8527,1940-1949,actinic keratosis,bioimpedance-derived physiologic cardiovascular analysis,Observation
+2109647,8532,8527,1920-1929,atrial fibrillation,dilation of esophagus,Observation
+1814208,8507,8527,1940-1949,Diabetes,administration of influenza virus vaccine,Observation
+1572415,8532,8527,1920-1929,insomnia,"application of external fixator device, monoplanar system",Observation
+744584,8532,8527,1930-1939,psoriasis with arthropathy,"vagotomy, not otherwise specified",Observation
+866911,8507,8527,1940-1949,diarrhea,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a problem focused history; a problem focused examination; straightforward medical decision making. counselin",Observation
+104404,8532,8527,1920-1929,atrial fibrillation,"internal fixation of bone without fracture reduction, scapula, clavicle, and thorax [ribs and sternum]",Observation
+1155562,8532,8527,1930-1939,fox-fordyce disease,Cancer,Observation
+1626923,8532,8527,1940-1949,pressure ulcer,no matching concept,Observation
+102292,8532,8527,1940-1949,gastroesophageal reflux disease,other diagnostic procedures on lymphatic structures,Observation
+188829,8532,8527,1930-1939,cataract in eye inflammatory disorder,no matching concept,Observation
+883344,8532,8527,1930-1939,Respiratory,"removal of implanted devices from bone, radius and ulna",Observation
+333435,8532,8527,1930-1939,urinary tract infectious disease,"closed reduction of fracture with internal fixation, tibia and fibula",Observation
+1665708,8532,8527,1940-1949,urinary incontinence,other resection of rectum,Observation
+111797,8532,8516,1910-1919,diarrhea,other diagnostic procedures on lymphatic structures,Observation
+553666,8532,0,1920-1929,furuncle of hand,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a detailed history; a detailed examination; medical decision making of moderate complexity. counseling and/o",Observation
+1362989,8507,8527,1940-1949,enthesopathy of ankle and/or tarsus,"repair, tendon, flexor, foot; primary or secondary, without free graft, each tendon",Observation
+1355295,8507,8527,1920-1929,open wound of multiple sites of mouth with complication,"radiologic examination, knee; complete, 4 or more views",Observation
+154226,8532,8527,1910-1919,jaccoud's syndrome,collection of venous blood by venipuncture,Observation
+994737,8532,8527,1920-1929,gastroesophageal reflux disease,partial esophagectomy,Observation
+2233316,8532,8527,1930-1939,acute follicular conjunctivitis,"ophthalmological services: medical examination and evaluation, with initiation or continuation of diagnostic and treatment program; intermediate, established patient",Observation
+2261362,8532,8527,1940-1949,hematuria syndrome,administration of influenza virus vaccine,Observation
+2058574,8532,8527,1930-1939,dyspnea,high forceps operation with episiotomy,Observation
+208074,8532,8527,1930-1939,exudative age-related macular degeneration,no matching concept,Observation
+1459274,8507,8516,1930-1939,end stage renal disease,daily hospital management of epidural or subarachnoid continuous drug administration,Observation
+88077,8532,8516,1930-1939,schmorl's nodes,"injection, anesthetic agent; suprascapular nerve",Observation
+1092567,8507,8527,1930-1939,exudative age-related macular degeneration,no matching concept,Observation
+1403370,8507,8527,1930-1939,atrial fibrillation,no matching concept,Observation
+337180,8507,8527,1930-1939,non-autoimmune hemolytic anemia,"insertion of bone growth stimulator, other bones",Observation
+460401,8507,8527,1940-1949,acute peptic ulcer with hemorrhage and with perforation but without obstruction,replacement of electronic ureteral stimulator,Observation
+141719,8532,8527,1920-1929,primary open angle glaucoma,"ophthalmological services: medical examination and evaluation, with initiation or continuation of diagnostic and treatment program; intermediate, established patient",Observation
+1461428,8532,8527,1920-1929,mechanical complication of internal joint prosthesis,"revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Observation
+513270,8507,8527,1940-1949,chest pain,surgical correction of prominent ear,Observation
+451892,8532,8527,1940-1949,thrombophlebitis of superficial veins of upper extremities,administration of influenza virus vaccine,Observation
+1841300,8507,8527,1930-1939,posterior dislocation of lens,"ophthalmological services: medical examination and evaluation with initiation of diagnostic and treatment program; comprehensive, new patient, 1 or more visits",Observation
+819850,8507,8527,1930-1939,irregular astigmatism,"ophthalmological services: medical examination and evaluation, with initiation or continuation of diagnostic and treatment program; comprehensive, established patient, 1 or more visits",Observation
+1509133,8507,8527,1920-1929,viral hepatitis carrier,"selective catheter placement, arterial system; each first order abdominal, pelvic, or lower extremity artery branch, within a vascular family",Observation
+946798,8507,8527,1930-1939,primary open angle glaucoma,no matching concept,Observation
+1111989,8507,8527,1940-1949,plantar nerve lesion,"application of external fixator device, humerus",Observation
+2069611,8532,8527,1920-1929,diabetic cataract,"extracapsular cataract removal with insertion of intraocular lens prosthesis (1 stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification)",Observation
+105546,8507,8527,1950-1959,urinary tract infectious disease,"open reduction of separated epiphysis, femur",Observation
+1696416,8532,8527,1920-1929,cardiomegaly,other diagnostic procedures on lymphatic structures,Observation
+589933,8532,8527,1930-1939,crohn's disease,transplant of kidney,Observation
+130230,8532,8527,1930-1939,arthropathy of pelvis,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: an expanded problem focused history; an expanded problem focused examination; medical decision making of low",Observation
+1875360,8532,8527,1940-1949,muscle weakness,"therapeutic procedure, 1 or more areas, each 15 minutes; therapeutic exercises to develop strength and endurance, range of motion and flexibility",Observation
+2051235,8532,0,1940-1949,complete trisomy 21 syndrome,"initial hospital care, per day, for the evaluation and management of a patient, which requires these 3 key components: a comprehensive history; a comprehensive examination; and medical decision making of moderate complexity. counseling and/or coordination",Observation
+1601790,8507,8527,1920-1929,osteoarthrosis involving multiple sites but not designated as generalized,biopsy of uvula and soft palate,Observation
+693022,8507,8527,1920-1929,bilateral bundle branch block,no matching concept,Observation
+1244823,8507,8527,1930-1939,"localized, secondary osteoarthritis","biopsy of mouth, unspecified structure",Observation
+2033113,8507,8527,1930-1939,infection of skin and/or subcutaneous tissue,collection of venous blood by venipuncture,Observation
+1720737,8507,8527,1930-1939,disorder of bone and articular cartilage,"immunization administration (includes percutaneous, intradermal, subcutaneous, or intramuscular injections); 1 vaccine (single or combination vaccine/toxoid)",Observation
+1279636,8507,8527,1930-1939,single major depressive episode,no matching concept,Observation
+200968,8532,8527,1940-1949,displacement of lumbar intervertebral disc without myelopathy,"magnetic resonance (eg, proton) imaging, spinal canal and contents, lumbar; without contrast material",Observation
+2214169,8532,0,1910-1919,Cancer,"shaving of epidermal or dermal lesion, single lesion, trunk, arms or legs; lesion diameter 1.1 to 2.0 cm",Observation
+1526160,8532,0,1940-1949,chest pain,"immunization administration (includes percutaneous, intradermal, subcutaneous, or intramuscular injections); 1 vaccine (single or combination vaccine/toxoid)",Observation
+512559,8507,8527,1940-1949,Cancer,no matching concept,Observation
+1263940,8532,8527,1940-1949,pain in limb,"limb shortening procedures, unspecified site",Observation
+1446444,8532,8527,1930-1939,displacement of intervertebral disc without myelopathy,"magnetic resonance (eg, proton) imaging, spinal canal and contents, lumbar; without contrast material",Observation
+930604,8532,8527,1930-1939,anxiety disorder,"bone graft, scapula, clavicle, and thorax [ribs and sternum]",Observation
+786285,8507,8527,1930-1939,alzheimer's disease,"application of external fixator device, humerus",Observation
+213163,8507,8527,1930-1939,atypical endometrial hyperplasia,"bone graft, tibia and fibula",Observation
+1974760,8507,8527,1930-1939,chronic fatigue syndrome,screening for intestinal helminthiasis,Observation
+461971,8507,8527,1930-1939,seminal vesiculitis,other diagnostic procedures on seminal vesicles,Observation
+1279870,8507,8527,1940-1949,delirium,"computed tomography, head or brain; without contrast material",Observation
+1152958,8532,8527,1920-1929,chill,"radiologic examination, chest, 2 views, frontal and lateral",Observation
+2208792,8532,8527,1920-1929,organic mental disorder,"subsequent hospital care, per day, for the evaluation and management of a patient, which requires at least 2 of these 3 key components: an expanded problem focused interval history; an expanded problem focused examination; medical decision making of moder",Observation
+733363,8532,8527,1930-1939,injury of trunk,"computed tomography, cervical spine; without contrast material",Observation
+407404,8532,8527,1930-1939,kidney stone,"bone graft, humerus",Observation
+1755202,8532,8527,1950-1959,degeneration of lumbosacral intervertebral disc,"therapeutic procedure, 1 or more areas, each 15 minutes; therapeutic exercises to develop strength and endurance, range of motion and flexibility",Observation
+1173900,8532,8527,1930-1939,idiopathic scoliosis and/or kyphoscoliosis,"dual-energy x-ray absorptiometry (dxa), bone density study, 1 or more sites; axial skeleton (eg, hips, pelvis, spine)",Observation
+596681,8507,0,1930-1939,dysphagia,"unilateral repair of inguinal hernia, not otherwise specified",Observation
+441335,8507,0,1950-1959,actinic keratosis,"esophagectomy, not otherwise specified",Observation
+742979,8507,0,1920-1929,deep vein phlebitis and thrombophlebitis of the leg,other diagnostic procedures on lymphatic structures,Observation
+350348,8532,0,1920-1929,atrial fibrillation,mammoplasty,Observation
+1627186,8507,8527,1920-1929,palindromic rheumatism of the pelvic region and thigh,"emergency department visit for the evaluation and management of a patient, which requires these 3 key components: an expanded problem focused history; an expanded problem focused examination; and medical decision making of moderate complexity. counseling ",Observation
+2086977,8507,8527,1920-1929,cyst of thyroid,biopsy of lymphatic structure,Observation
+1768289,8507,8527,1920-1929,closed fracture of base of metacarpal bone other than first metacarpal,"therapeutic procedure, 1 or more areas, each 15 minutes; therapeutic exercises to develop strength and endurance, range of motion and flexibility",Observation
+1104606,8507,8527,1920-1929,bipolar i disorder,no matching concept,Observation
+897530,8507,8527,1920-1929,chest pain,collection of venous blood by venipuncture,Observation
+1814913,8532,8527,1920-1929,hematemesis,"therapeutic, prophylactic, or diagnostic injection (specify substance or drug); subcutaneous or intramuscular",Observation
+330156,8507,8527,1940-1949,allergic rhinitis,biopsy of lymphatic structure,Observation
+190921,8507,8527,1950-1959,insomnia,other diagnostic procedures on lymphatic structures,Observation
+2018100,8532,8527,1940-1949,fracture of fibula,suture of tendon sheath of hand,Observation
+1239490,8507,8516,1980-1989,localized osteoarthrosis uncertain if primary or secondary,"arthroplasty, glenohumeral joint; total shoulder (glenoid and proximal humeral replacement (eg, total shoulder))",Observation
+183797,8507,8516,1960-1969,metabolic encephalopathy,creation of conduit between atrium and pulmonary artery,Observation
+962255,8507,8516,1930-1939,peripheral venous insufficiency,biopsy of lymphatic structure,Observation
+222781,8532,8516,1930-1939,atrial fibrillation,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a detailed history; a detailed examination; medical decision making of moderate complexity. counseling and/o",Observation
+582368,8507,8527,1920-1929,atrial fibrillation,other diagnostic procedures on lymphatic structures,Observation
+483609,8507,8527,1920-1929,open fracture of lunate bone of wrist,endoscopic insertion of other bronchial device or substances,Observation
+1246889,8507,8527,1940-1949,hypothyroidism,other puncture of vein,Observation
+1661924,8532,8527,1910-1919,Cancer,no matching concept,Observation
+419403,8532,8527,1910-1919,end stage renal disease,"ophthalmological services: medical examination and evaluation, with initiation or continuation of diagnostic and treatment program; comprehensive, established patient, 1 or more visits",Observation
+1046668,8532,8527,1920-1929,Diabetes,"office or other outpatient visit for the evaluation and management of a new patient, which requires these 3 key components: a detailed history; a detailed examination; medical decision making of low complexity. counseling and/or coordination of care with ",Observation
+2073713,8532,8527,1920-1929,incomplete emptying of bladder,noninvasive ear or pulse oximetry for oxygen saturation; single determination,Observation
+1427439,8532,8527,1940-1949,thyroiditis,biopsy of uvula and soft palate,Observation
+879330,8532,8527,1950-1959,hemoglobinopathy,other diagnostic procedures on lymphatic structures,Observation
+1662432,8532,8527,1930-1939,precordial pain,collection of venous blood by venipuncture,Observation
+1520086,8532,8527,1930-1939,chronic fatigue syndrome,other diagnostic procedures on lymphatic structures,Observation
+1446508,8532,8527,1930-1939,joint stiffness,noninvasive ear or pulse oximetry for oxygen saturation; single determination,Observation
+1739031,8532,8527,1940-1949,Respiratory,collection of venous blood by venipuncture,Observation
+1018323,8532,8527,1940-1949,streptococcus carrier,"therapeutic procedure, 1 or more areas, each 15 minutes; therapeutic exercises to develop strength and endurance, range of motion and flexibility",Observation
+1592625,8507,0,1930-1939,Cancer,Cancer,Observation
+1391140,8532,0,1920-1929,Cardiovascular,splenotomy,Observation
+1743152,8507,8527,1930-1939,abdominal pain,"inpatient consultation for a new or established patient, which requires these 3 key components: an expanded problem focused history; an expanded problem focused examination; and straightforward medical decision making. counseling and/or coordination of ca",Observation
+750473,8507,8527,1930-1939,precerebral arterial occlusion,duplex scan of extracranial arteries; complete bilateral study,Observation
+1531573,8532,8527,1920-1929,uncomplicated presenile dementia,"microscopic examination of specimen from liver, biliary tract, and pancreas, toxicology",Observation
+1448451,8532,8527,1930-1939,"recurrent major depressive episodes, moderate",other repair of ureter,Observation
+1815072,8532,8527,1940-1949,infection of central venous catheter,revision or closure of vesicostomy,Observation
+130118,8532,8516,1910-1919,bronchiectasis,"subsequent hospital care, per day, for the evaluation and management of a patient, which requires at least 2 of these 3 key components: an expanded problem focused interval history; an expanded problem focused examination; medical decision making of moder",Observation
+2027793,8507,8516,1960-1969,tobacco dependence syndrome,Cancer,Observation
+626996,8532,0,1920-1929,hypothyroidism,"arthrocentesis, aspiration and/or injection, small joint or bursa (eg, fingers, toes); without ultrasound guidance",Observation
+1081198,8507,8527,1910-1919,Diabetes,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: an expanded problem focused history; an expanded problem focused examination; medical decision making of low",Observation
+1274527,8507,8527,1920-1929,pseudoexfoliation glaucoma,diagnostic procedures on vagina and cul-de-sac,Observation
+2172170,8507,8527,1920-1929,localized osteoarthrosis uncertain if primary or secondary,"therapeutic procedure, 1 or more areas, each 15 minutes; therapeutic exercises to develop strength and endurance, range of motion and flexibility",Observation
+690403,8507,8527,1930-1939,Respiratory,ileostomy,Observation
+819181,8507,8527,1940-1949,granuloma of conjunctiva,"ophthalmological services: medical examination and evaluation, with initiation or continuation of diagnostic and treatment program; comprehensive, established patient, 1 or more visits",Observation
+289082,8532,8527,1920-1929,Diabetes,biopsy of lymphatic structure,Observation
+1470012,8532,8527,1920-1929,primary open angle glaucoma,no matching concept,Observation
+974626,8532,8527,1930-1939,arthralgia of the lower leg,"application of external fixator device, humerus",Observation
+1726629,8532,8527,1940-1949,atrial fibrillation,collection of venous blood by venipuncture,Observation
+233279,8532,8527,1940-1949,sprains and strains of joints and adjacent muscles,"application of external fixator device, monoplanar system",Observation
+300598,8532,8527,1930-1939,pure hypercholesterolemia,other diagnostic procedures on lymphatic structures,Observation
+1482061,8532,8527,1930-1939,solitary sacroiliitis,high forceps operation with episiotomy,Observation
+420645,8532,8527,1930-1939,postmenopausal state,"dual-energy x-ray absorptiometry (dxa), bone density study, 1 or more sites; axial skeleton (eg, hips, pelvis, spine)",Observation
+1693396,8532,8527,1940-1949,open fracture of epiphysis of femur,"initial nursing facility care, per day, for the evaluation and management of a patient, which requires these 3 key components: a comprehensive history; a comprehensive examination; and medical decision making of moderate complexity. counseling and/or coor",Observation
+1475209,8532,8527,1930-1939,dyspnea,anastomosis of gallbladder to hepatic ducts,Observation
+1710904,8532,8527,1930-1939,abdominal pain,other diagnostic procedures on lymphatic structures,Observation
+1285003,8507,8527,1920-1929,dysphagia,"office or other outpatient visit for the evaluation and management of an established patient, that may not require the presence of a physician or other qualified health care professional. usually, the presenting problem(s) are minimal. typically, 5 minute",Observation
+1720377,8507,8527,1930-1939,verruca vulgaris,Diabetes,Observation
+2127506,8507,8527,1930-1939,rupture of tendon of foot and ankle,determination of refractive state,Observation
+567098,8507,8527,1930-1939,Diabetes,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a problem focused history; a problem focused examination; straightforward medical decision making. counselin",Observation
+1762612,8507,8527,1940-1949,hypothyroidism,determination of refractive state,Observation
+121659,8532,8527,1920-1929,chest pain,collection of venous blood by venipuncture,Observation
+894088,8532,8527,1920-1929,Diabetes,other resection of rectum,Observation
+518829,8532,8527,1920-1929,cataract,determination of refractive state,Observation
+303733,8507,8527,1950-1959,fibrocystic disease of breast,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: an expanded problem focused history; an expanded problem focused examination; medical decision making of low",Observation
+1033100,8532,8527,1940-1949,lumbosacral spondylosis without myelopathy,"incision of vessel, aorta",Observation
+112233,8532,8527,1940-1949,arthropathy of knee joint,"radiologic examination, hip, unilateral; complete, minimum of 2 views",Observation
+1437808,8507,8516,1910-1919,chest pain,"subsequent hospital care, per day, for the evaluation and management of a patient, which requires at least 2 of these 3 key components: a detailed interval history; a detailed examination; medical decision making of high complexity. counseling and/or coor",Observation
+63506,8507,8516,1930-1939,Respiratory,"subsequent hospital care, per day, for the evaluation and management of a patient, which requires at least 2 of these 3 key components: an expanded problem focused interval history; an expanded problem focused examination; medical decision making of moder",Observation
+2120777,8507,0,1930-1939,Diabetes,biopsy of uvula and soft palate,Observation
+599877,8507,8527,1920-1929,Diabetes,"office or other outpatient visit for the evaluation and management of an established patient, that may not require the presence of a physician or other qualified health care professional. usually, the presenting problem(s) are minimal. typically, 5 minute",Observation
+674392,8507,8527,1920-1929,cataract with neovascularization,"office or other outpatient visit for the evaluation and management of an established patient, that may not require the presence of a physician or other qualified health care professional. usually, the presenting problem(s) are minimal. typically, 5 minute",Observation
+737643,8507,8527,1910-1919,Cardiovascular,other injection into sympathetic nerve or ganglion,Observation
+466,8507,8527,1930-1939,constipation,dilation of urethra,Observation
+1874919,8507,8527,1930-1939,vitamin b deficiency,"fixation of intestine, not otherwise specified",Observation
+1500995,8532,8527,1930-1939,chest pain,"office consultation for a new or established patient, which requires these 3 key components: a detailed history; a detailed examination; and medical decision making of low complexity. counseling and/or coordination of care with other physicians, other qua",Observation
+972396,8507,8527,1950-1959,hematuria syndrome,other diagnostic procedures on lymphatic structures,Observation
+1411663,8532,8527,1920-1929,incomplete emptying of bladder,surgical correction of prominent ear,Observation
+1086661,8532,8527,1930-1939,epiretinal membrane,no matching concept,Observation
+1962509,8532,8527,1930-1939,open wound of nose without complication,other tomography of thorax,Observation
+635253,8532,8527,1940-1949,nonexudative age-related macular degeneration,no matching concept,Observation
+935975,8532,8527,1950-1959,precerebral arterial occlusion,"thromboendarterectomy, including patch graft, if performed; carotid, vertebral, subclavian, by neck incision",Observation
+2310333,8532,8516,1940-1949,closed fracture of sacrum and/or coccyx without spinal cord injury,other repair of kidney,Observation
+1839298,8507,8527,1920-1929,acute apical periodontitis of pulpal origin,"other repair or plastic operations on bone, femur",Observation
+1992061,8507,8527,1930-1939,Cardiovascular,closed [endoscopic] biopsy of stomach,Observation
+1620303,8507,8527,1930-1939,injury of rectum with open wound into abdominal cavity,excision of skin for graft,Observation
+762690,8532,8527,1920-1929,urinary tract infectious disease,other and unspecified robotic assisted procedure,Observation
+1510210,8532,8527,1920-1929,atrial fibrillation,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a detailed history; a detailed examination; medical decision making of moderate complexity. counseling and/o",Observation
+1127540,8532,8527,1920-1929,Cardiovascular,"rhythm ecg, 1-3 leads; interpretation and report only",Observation
+23691,8532,8527,1930-1939,drug allergy,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a detailed history; a detailed examination; medical decision making of moderate complexity. counseling and/o",Observation
+160032,8532,8527,1930-1939,general clinical state finding,collection of venous blood by venipuncture,Observation
+1300594,8532,8527,1940-1949,Cancer,no matching concept,Observation
+261099,8507,8527,1930-1939,Cancer,laparoscopic multiple segmental resection of large intestine,Observation
+2105171,8507,8527,1930-1939,Respiratory,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a detailed history; a detailed examination; medical decision making of moderate complexity. counseling and/o",Observation
+1856215,8507,8527,1930-1939,vaginal wall prolapse,marsupialization of kidney lesion,Observation
+2076573,8507,8527,1930-1939,closed fracture of phalanx of foot,"radiologic examination, foot; complete, minimum of 3 views",Observation
+716388,8507,8527,1930-1939,chronic vascular insufficiency of intestine,other diagnostic procedures on lymphatic structures,Observation
+2180634,8532,8527,1960-1969,chest pain,insertion of non-tunneled centrally inserted central venous catheter; age 5 years or older,Observation
+1254942,8532,8527,1910-1919,cyst of thyroid,collection of venous blood by venipuncture,Observation
+2256114,8532,8527,1940-1949,anterior subcapsular polar senile cataract,"ophthalmological services: medical examination and evaluation, with initiation or continuation of diagnostic and treatment program; comprehensive, established patient, 1 or more visits",Observation
+1755410,8532,8527,1940-1949,Cardiovascular,collection of venous blood by venipuncture,Observation
+466133,8532,8527,1930-1939,primary open angle glaucoma,no matching concept,Observation
+1944444,8532,8527,1940-1949,Respiratory,no matching concept,Observation
+727783,8532,8527,1940-1949,disorder of middle ear,"incision of vessel, aorta",Observation
+1454763,8532,8516,1920-1929,nuclear cataract,collection of venous blood by venipuncture,Observation
+835895,8532,8516,1940-1949,Diabetes,"biopsy of mouth, unspecified structure",Observation
+928203,8507,0,1930-1939,Cancer,"anesthesia for lower intestinal endoscopic procedures, endoscope introduced distal to duodenum",Observation
+1929665,8507,8527,1920-1929,disorder of gallbladder,anesthesia for intraperitoneal procedures in upper abdomen including laparoscopy; not otherwise specified,Observation
+1797463,8532,8527,1920-1929,"localized, primary osteoarthritis of the hand","radiologic examination, foot; 2 views",Observation
+2078152,8532,8527,1920-1929,vascular insufficiency of intestine,"unspecified operation on bone injury, carpals and metacarpals",Observation
+1086468,8507,8527,1950-1959,disorder of bursa of shoulder region,collection of venous blood by venipuncture,Observation
+2222469,8532,8527,1930-1939,injury of trunk,other diagnostic procedures on lymphatic structures,Observation
+622980,8532,8527,1940-1949,chest pain,"radiologic examination, chest, 2 views, frontal and lateral",Observation
+784432,8532,8527,1940-1949,hypermature cataract,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a detailed history; a detailed examination; medical decision making of moderate complexity. counseling and/o",Observation
+1169764,8507,8527,1920-1929,atrial fibrillation,cardioplegia,Observation
+1517996,8507,8527,1930-1939,joint derangement,"therapeutic procedure, 1 or more areas, each 15 minutes; therapeutic exercises to develop strength and endurance, range of motion and flexibility",Observation
+1964174,8532,8527,1910-1919,arthralgia of the upper arm,"radiologic examination, knee; 3 views",Observation
+1236787,8507,8527,1940-1949,constipation,surgical correction of prominent ear,Observation
+1653354,8532,8527,1920-1929,Cardiovascular,"initial hospital care, per day, for the evaluation and management of a patient, which requires these 3 key components: a comprehensive history; a comprehensive examination; and medical decision making of high complexity. counseling and/or coordination of ",Observation
+1989052,8532,8527,1930-1939,disseminated superficial actinic porokeratosis,Cancer,Observation
+1763598,8532,8527,1930-1939,organic mental disorder,"subsequent nursing facility care, per day, for the evaluation and management of a patient, which requires at least 2 of these 3 key components: an expanded problem focused interval history; an expanded problem focused examination; medical decision making ",Observation
+734687,8532,8527,1940-1949,combined nonsenile cataract,"ophthalmological services: medical examination and evaluation, with initiation or continuation of diagnostic and treatment program; comprehensive, established patient, 1 or more visits",Observation
+2185026,8532,8516,1930-1939,abdominal pain,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a problem focused history; a problem focused examination; straightforward medical decision making. counselin",Observation
+284927,8507,8527,1920-1929,dysphagia,"unspecified operation on bone injury, carpals and metacarpals",Observation
+638626,8507,8527,1930-1939,acquired coxa valga,physical therapy evaluation,Observation
+1495952,8507,8527,1940-1949,diabetic cataract,"application of external fixator device, femur",Observation
+2135390,8507,8527,1930-1939,functional diarrhea,"subsequent hospital care, per day, for the evaluation and management of a patient, which requires at least 2 of these 3 key components: a problem focused interval history; a problem focused examination; medical decision making that is straightforward or o",Observation
+1648334,8507,8527,1940-1949,calculus of lower urinary tract,"radiologic examination, abdomen; single anteroposterior view",Observation
+980797,8507,8527,1930-1939,impotence of organic origin,"biopsy of mouth, unspecified structure",Observation
+727005,8507,8527,1950-1959,digestive symptom,"anesthesia for lower intestinal endoscopic procedures, endoscope introduced distal to duodenum",Observation
+137348,8532,8527,1920-1929,Cancer,"biopsy of skin, subcutaneous tissue and/or mucous membrane (including simple closure), unless otherwise listed; single lesion",Observation
+1126216,8532,8527,1920-1929,chest pain,other diagnostic procedures on lymphatic structures,Observation
+1774023,8532,8527,1920-1929,urinary tract infectious disease,"incision of vessel, aorta",Observation
+1824738,8507,8527,1940-1949,pyoderma,other diagnostic procedures on cornea,Observation
+33126,8507,8527,1940-1949,closed fracture of one rib,"radiologic examination, chest, 2 views, frontal and lateral",Observation
+260938,8532,8527,1910-1919,backache,biopsy of lymphatic structure,Observation
+14926,8532,8527,1920-1929,toxic cataract,"ophthalmological services: medical examination and evaluation with initiation of diagnostic and treatment program; comprehensive, new patient, 1 or more visits",Observation
+331971,8532,8527,1940-1949,Respiratory,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: an expanded problem focused history; an expanded problem focused examination; medical decision making of low",Observation
+1533575,8532,8527,1930-1939,general clinical state finding,"bone graft, patella",Observation
+2146030,8532,8527,1930-1939,alcoholic fatty liver,debridement of nail(s) by any method(s); 6 or more,Observation
+2254762,8532,0,1920-1929,irregular astigmatism,"ophthalmological services: medical examination and evaluation, with initiation or continuation of diagnostic and treatment program; comprehensive, established patient, 1 or more visits",Observation
+394556,8507,8527,1920-1929,pancytopenia,collection of venous blood by venipuncture,Observation
+1523311,8507,8527,1920-1929,end stage renal disease,"bone graft, humerus",Observation
+1546710,8507,8527,1930-1939,pain in limb,"open reduction of fracture with internal fixation, tarsals and metatarsals",Observation
+1057255,8507,8527,1940-1949,bicipital tenosynovitis,administration of influenza virus vaccine,Observation
+1721496,8532,8527,1920-1929,generalized convulsive epilepsy,mammoplasty,Observation
+2325261,8507,8527,1940-1949,arthralgia of the pelvic region and thigh,particulate radiosurgery,Observation
+2067250,8507,8527,1950-1959,rupture of artery,open total intra-abdominal colectomy,Observation
+889893,8532,8527,1920-1929,acute atopic conjunctivitis,"radiologic examination, knee; 1 or 2 views",Observation
+109298,8532,8527,1920-1929,hypothyroidism,"removal of implanted devices from bone, humerus",Observation
+1219461,8532,8527,1930-1939,gastroduodenitis,no matching concept,Observation
+500582,8507,0,1940-1949,acute exacerbation of subchronic schizophrenia,mammoplasty,Observation
+1277836,8532,0,1940-1949,dyspnea,"computed tomography, head or brain; without contrast material",Observation
+927971,8507,8527,1930-1939,herpetic whitlow,other injection into sympathetic nerve or ganglion,Observation
+399011,8507,8527,1920-1929,intrapelvic protrusion of acetabulum,"magnetic resonance (eg, proton) imaging, pelvis; without contrast material(s)",Observation
+1343968,8507,8527,1930-1939,malignant lymphoma,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a comprehensive history; a comprehensive examination; medical decision making of high complexity. counseling",Observation
+1301624,8507,8527,1940-1949,localized osteoarthrosis uncertain if primary or secondary,biopsy of lymphatic structure,Observation
+1741771,8532,8527,1930-1939,low back pain,"injection procedure for sacroiliac joint, anesthetic/steroid, with image guidance (fluoroscopy or ct) including arthrography when performed",Observation
+1332750,8532,8527,1960-1969,capsular breast contracture of breast implant,collection of venous blood by venipuncture,Observation
+1568900,8532,8527,1930-1939,sprains and strains of joints and adjacent muscles,"insertion of total spinal disc prosthesis, cervical",Observation
+2004224,8532,8527,1930-1939,impairment level: better eye: severe impairment: lesser eye: profound impairment,Cardiovascular,Observation
+1329698,8532,8527,1930-1939,paroxysmal supraventricular tachycardia,"bone graft, humerus",Observation
+501647,8532,8516,1920-1929,Cardiovascular,administration of influenza virus vaccine,Observation
+2103190,8532,8516,1910-1919,crystal arthropathy of shoulder region,collection of venous blood by venipuncture,Observation
+622297,8532,8516,1940-1949,atrial fibrillation,"limb shortening procedures, radius and ulna",Observation
+655043,8507,0,1940-1949,Respiratory,"emergency department visit for the evaluation and management of a patient, which requires these 3 key components within the constraints imposed by the urgency of the patient's clinical condition and/or mental status: a comprehensive history; a comprehensi",Observation
+1818816,8507,8527,1930-1939,Diabetes,"biopsy of mouth, unspecified structure",Observation
+1951211,8507,8527,1940-1949,open dislocation of sacrum,"anesthesia for lower intestinal endoscopic procedures, endoscope introduced distal to duodenum",Observation
+1830162,8507,8527,1920-1929,cyst and pseudocyst of pancreas,radical cystectomy,Observation
+1704987,8507,8527,1940-1949,dyspnea,other operations on biliary tract,Observation
+913685,8507,8527,1930-1939,open-angle glaucoma,no matching concept,Observation
+621859,8532,8527,1920-1929,arthralgia of the lower leg,"therapeutic procedure, 1 or more areas, each 15 minutes; aquatic therapy with therapeutic exercises",Observation
+1819918,8532,8527,1920-1929,generalized abdominal pain,"radiologic examination, chest, 2 views, frontal and lateral",Observation
+200610,8507,8527,1940-1949,Cancer,"office or other outpatient visit for the evaluation and management of a new patient, which requires these 3 key components: a detailed history; a detailed examination; medical decision making of low complexity. counseling and/or coordination of care with ",Observation
+302094,8507,8527,1940-1949,left upper quadrant pain,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: an expanded problem focused history; an expanded problem focused examination; medical decision making of low",Observation
+2066016,8532,8527,1930-1939,hand joint pain,"insertion of partial spinal disc prosthesis, cervical",Observation
+192168,8532,8527,1930-1939,pain in limb,"open reduction of separated epiphysis, femur",Observation
+1271817,8532,8527,1940-1949,chest pain,pancreatic sphincteroplasty,Observation
+2285214,8507,8527,1920-1929,drug allergy,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: an expanded problem focused history; an expanded problem focused examination; medical decision making of low",Observation
+2232976,8507,8527,1930-1939,bronchiectasis,excision of anus,Observation
+931584,8507,8527,1940-1949,organic mental disorder,collection of venous blood by venipuncture,Observation
+1603142,8507,8527,1940-1949,Cancer,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: an expanded problem focused history; an expanded problem focused examination; medical decision making of low",Observation
+685634,8507,8527,1920-1929,open wound of finger without complication,"radiologic examination, foot; complete, minimum of 3 views",Observation
+839776,8532,8527,1920-1929,Cardiovascular,"transtelephonic rhythm strip pacemaker evaluation(s) single, dual, or multiple lead pacemaker system, includes recording with and without magnet application with analysis, review and report(s) by a physician or other qualified health care professional, up",Observation
+113459,8532,8527,1930-1939,Cardiovascular,"biopsy of mouth, unspecified structure",Observation
+748470,8532,8527,1940-1949,arthralgia of the pelvic region and thigh,open biopsy of testis,Observation
+444838,8532,8527,1940-1949,urinary tract infectious disease,"subsequent hospital care, per day, for the evaluation and management of a patient, which requires at least 2 of these 3 key components: an expanded problem focused interval history; an expanded problem focused examination; medical decision making of moder",Observation
+917315,8532,8527,1940-1949,exudative retinopathy,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a detailed history; a detailed examination; medical decision making of moderate complexity. counseling and/o",Observation
+838400,8532,8516,1920-1929,chest pain,collection of venous blood by venipuncture,Observation
+2227843,8507,0,1920-1929,shoulder joint pain,"manual therapy techniques (eg, mobilization/ manipulation, manual lymphatic drainage, manual traction), 1 or more regions, each 15 minutes",Observation
+1083514,8532,0,1930-1939,hematuria syndrome,"emergency department visit for the evaluation and management of a patient, which requires these 3 key components: an expanded problem focused history; an expanded problem focused examination; and medical decision making of moderate complexity. counseling ",Observation
+935237,8507,8527,1930-1939,frank hematuria,partial ureterectomy,Observation
+610912,8507,8527,1930-1939,exudative retinopathy,"ophthalmological services: medical examination and evaluation with initiation of diagnostic and treatment program; comprehensive, new patient, 1 or more visits",Observation
+568546,8532,8527,1920-1929,Cardiovascular,other reconstruction of urethra,Observation
+1582929,8507,8527,1940-1949,disorder of lung,"computed tomography, thorax; with contrast material(s)",Observation
+2303543,8532,8527,1930-1939,diverticular disease of colon,"diagnostic procedures on bone, not elsewhere classified, scapula, clavicle, and thorax [ribs and sternum]",Observation
+1058199,8532,8527,1940-1949,open wound of shoulder region without complication,other diagnostic procedures on lymphatic structures,Observation
+116431,8532,8516,1930-1939,"recurrent major depressive episodes, moderate",no matching concept,Observation
+2196446,8532,8516,1930-1939,obstructive sleep apnea syndrome,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a detailed history; a detailed examination; medical decision making of moderate complexity. counseling and/o",Observation
+1967218,8507,0,1940-1949,hematuria syndrome,"radiologic examination, chest; single view, frontal",Observation
+154531,8507,0,1920-1929,hypothyroidism,"collection of capillary blood specimen (eg, finger, heel, ear stick)",Observation
+1498236,8507,8527,1930-1939,open fracture of upper end of forearm,"injection(s), anesthetic agent and/or steroid, transforaminal epidural, with imaging guidance (fluoroscopy or ct); lumbar or sacral, single level",Observation
+1048928,8507,8527,1920-1929,malaise and fatigue,biopsy of uvula and soft palate,Observation
+502440,8507,8527,1950-1959,Diabetes,biopsy of lymphatic structure,Observation
+935826,8507,8527,1920-1929,diarrhea,collection of venous blood by venipuncture,Observation
+1707318,8507,8527,1930-1939,severe depressed bipolar i disorder with psychotic features,no matching concept,Observation
+266765,8507,8527,1940-1949,vesicoureteric reflux,other diagnostic procedures on lymphatic structures,Observation
+1689253,8507,8527,1940-1949,Diabetes,"initial hospital care, per day, for the evaluation and management of a patient, which requires these 3 key components: a comprehensive history; a comprehensive examination; and medical decision making of high complexity. counseling and/or coordination of ",Observation
+2077388,8532,8527,1920-1929,right upper quadrant pain,"ultrasound, abdominal, real time with image documentation; limited (eg, single organ, quadrant, follow-up)",Observation
+786956,8532,8527,1930-1939,Diabetes,collection of venous blood by venipuncture,Observation
+644153,8532,8527,1950-1959,Respiratory,"bone graft, carpals and metacarpals",Observation
+2164461,8532,8527,1930-1939,disseminated idiopathic skeletal hyperostosis,"office or other outpatient visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components: a detailed history; a detailed examination; medical decision making of moderate complexity. counseling and/o",Observation
+1352721,8532,8527,1940-1949,open wound of hand except fingers without complication,"bone graft, humerus",Observation
+2300129,8507,0,1920-1929,primary open angle glaucoma,no matching concept,Observation
+868270,8507,0,1930-1939,gastroduodenitis,collection of venous blood by venipuncture,Observation
+1444114,8507,0,1960-1969,abdominal tenderness of left lower quadrant,"computed tomography, pelvis; without contrast material",Observation

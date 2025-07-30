@@ -1,0 +1,13 @@
+Dataset,Colonna Sorgente,Colonna Target OMOP,Similarità
+k2_classico,gender_concept_id,gender_concept_id,0.111
+k2_classico,race_concept_id,race_concept_id,0.099
+k2_classico,year_decade,year_of_birth,0.047
+k2_classico,condition_1_name_softcat,condition_concept_id,0.023
+k2_classico,procedure_1_name_softcat,gender_concept_id,0.038
+k2_classico,observation_1_name_softcat,observation_concept_id,0.142
+k2_semantico,gender_concept_id,gender_concept_id,0.111
+k2_semantico,race_concept_id,race_concept_id,0.099
+k2_semantico,year_decade,gender_concept_id,0.0
+k2_semantico,condition_1_name_cat,gender_concept_id,0.0
+k2_semantico,procedure_1_name_cat,gender_concept_id,0.0
+k2_semantico,observation_1_name_cat,gender_concept_id,0.0

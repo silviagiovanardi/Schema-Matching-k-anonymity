@@ -1,0 +1,18 @@
+Colonna Sorgente,Colonna Target OMOP,Descrizione Target,Similarità
+condition_1,observation_concept_id,Clinical observation or finding,0.0
+condition_1_name,observation_concept_id,Clinical observation or finding,0.0
+condition_2,condition_concept_id,Code identifying a condition diagnosis,0.0
+condition_2_name,gender_concept_id,Gender of the person,0.122
+gender_concept_id,gender_concept_id,Gender of the person,0.266
+gender_concept_id_name,observation_concept_id,Clinical observation or finding,0.0
+observation_1,observation_concept_id,Clinical observation or finding,0.0
+observation_1_name,race_concept_id,Race or ethnicity of the person,0.15
+observation_2,gender_concept_id,Gender of the person,0.0
+observation_2_name,observation_concept_id,Clinical observation or finding,0.205
+procedure_1,observation_concept_id,Clinical observation or finding,0.0
+procedure_1_name,gender_concept_id,Gender of the person,0.188
+procedure_2,observation_concept_id,Clinical observation or finding,0.0
+procedure_2_name,race_concept_id,Race or ethnicity of the person,0.205
+race_concept_id,race_concept_id,Race or ethnicity of the person,0.221
+race_concept_id_name,observation_concept_id,Clinical observation or finding,0.066
+year_of_birth,year_of_birth,Year the person was born,0.109

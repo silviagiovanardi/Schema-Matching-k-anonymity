@@ -1,0 +1,30 @@
+Dataset,Colonna Sorgente,Colonna Target OMOP,Descrizione Target,Similarità
+original,gender_concept_id,gender_concept_id,Gender of the person,0.833
+original,race_concept_id,race_concept_id,Race or ethnicity of the person,0.657
+original,year_of_birth,year_of_birth,Year the person was born,0.593
+original,condition_1,condition_concept_id,Code identifying a condition diagnosis,0.363
+original,condition_2,condition_concept_id,Code identifying a condition diagnosis,0.344
+original,observation_1,observation_concept_id,Clinical observation or finding,0.361
+original,observation_2,observation_concept_id,Clinical observation or finding,0.297
+original,procedure_1,procedure_concept_id,Code identifying a medical procedure,0.44
+original,procedure_2,procedure_concept_id,Code identifying a medical procedure,0.439
+original,gender_concept_id_name,gender_concept_id,Gender of the person,0.896
+original,race_concept_id_name,race_concept_id,Race or ethnicity of the person,0.805
+original,condition_1_name,condition_concept_id,Code identifying a condition diagnosis,0.236
+original,condition_2_name,condition_concept_id,Code identifying a condition diagnosis,0.185
+original,observation_1_name,observation_concept_id,Clinical observation or finding,0.432
+original,observation_2_name,observation_concept_id,Clinical observation or finding,0.373
+original,procedure_1_name,procedure_concept_id,Code identifying a medical procedure,0.46
+original,procedure_2_name,procedure_concept_id,Code identifying a medical procedure,0.421
+k2,gender_concept_id,gender_concept_id,Gender of the person,0.833
+k2,race_concept_id,race_concept_id,Race or ethnicity of the person,0.657
+k2,year_decade,year_of_birth,Year the person was born,0.394
+k2,condition_1_name_softcat,condition_concept_id,Code identifying a condition diagnosis,0.28
+k2,procedure_1_name_softcat,procedure_concept_id,Code identifying a medical procedure,0.375
+k2,observation_1_name_softcat,observation_concept_id,Clinical observation or finding,0.531
+k3,gender_concept_id,gender_concept_id,Gender of the person,0.833
+k3,race_concept_id,race_concept_id,Race or ethnicity of the person,0.657
+k3,year_decade,year_of_birth,Year the person was born,0.394
+k3,condition_1_name_cat,observation_concept_id,Clinical observation or finding,0.372
+k3,procedure_1_name_cat,procedure_concept_id,Code identifying a medical procedure,0.411
+k3,observation_1_name_cat,observation_concept_id,Clinical observation or finding,0.606

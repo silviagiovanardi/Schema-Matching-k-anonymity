@@ -1,0 +1,103 @@
+Colonna Sorgente,Colonna Target OMOP,Descrizione Target,Similarità
+gender_concept_id,gender_concept_id,Gender of the person,0.266
+race_concept_id,race_concept_id,Race or ethnicity of the person,0.221
+procedure_2_name,race_concept_id,Race or ethnicity of the person,0.205
+observation_2_name,observation_concept_id,Clinical observation or finding,0.205
+procedure_1_name,gender_concept_id,Gender of the person,0.188
+procedure_2_name,gender_concept_id,Gender of the person,0.171
+procedure_1_name,race_concept_id,Race or ethnicity of the person,0.17
+observation_1_name,race_concept_id,Race or ethnicity of the person,0.15
+observation_2_name,race_concept_id,Race or ethnicity of the person,0.141
+observation_1_name,gender_concept_id,Gender of the person,0.128
+observation_2_name,gender_concept_id,Gender of the person,0.125
+condition_2_name,gender_concept_id,Gender of the person,0.122
+year_of_birth,year_of_birth,Year the person was born,0.109
+condition_2_name,race_concept_id,Race or ethnicity of the person,0.101
+race_concept_id_name,observation_concept_id,Clinical observation or finding,0.066
+procedure_2_name,observation_concept_id,Clinical observation or finding,0.066
+race_concept_id_name,race_concept_id,Race or ethnicity of the person,0.062
+procedure_2_name,procedure_concept_id,Code identifying a medical procedure,0.057
+procedure_1_name,procedure_concept_id,Code identifying a medical procedure,0.049
+observation_1_name,observation_concept_id,Clinical observation or finding,0.047
+observation_2_name,year_of_birth,Year the person was born,0.031
+condition_2_name,year_of_birth,Year the person was born,0.023
+procedure_1_name,year_of_birth,Year the person was born,0.023
+observation_1_name,year_of_birth,Year the person was born,0.019
+procedure_2_name,year_of_birth,Year the person was born,0.018
+procedure_1_name,observation_concept_id,Clinical observation or finding,0.014
+year_of_birth,procedure_concept_id,Code identifying a medical procedure,0.0
+year_of_birth,gender_concept_id,Gender of the person,0.0
+year_of_birth,race_concept_id,Race or ethnicity of the person,0.0
+condition_1_name,observation_concept_id,Clinical observation or finding,0.0
+condition_1_name,procedure_concept_id,Code identifying a medical procedure,0.0
+condition_1_name,gender_concept_id,Gender of the person,0.0
+condition_1_name,condition_concept_id,Code identifying a condition diagnosis,0.0
+condition_1_name,year_of_birth,Year the person was born,0.0
+condition_1_name,race_concept_id,Race or ethnicity of the person,0.0
+condition_2_name,procedure_concept_id,Code identifying a medical procedure,0.0
+year_of_birth,condition_concept_id,Code identifying a condition diagnosis,0.0
+race_concept_id_name,procedure_concept_id,Code identifying a medical procedure,0.0
+race_concept_id_name,condition_concept_id,Code identifying a condition diagnosis,0.0
+race_concept_id_name,year_of_birth,Year the person was born,0.0
+condition_2_name,condition_concept_id,Code identifying a condition diagnosis,0.0
+observation_1_name,condition_concept_id,Code identifying a condition diagnosis,0.0
+condition_2_name,observation_concept_id,Clinical observation or finding,0.0
+race_concept_id,gender_concept_id,Gender of the person,0.0
+procedure_2_name,condition_concept_id,Code identifying a condition diagnosis,0.0
+gender_concept_id,year_of_birth,Year the person was born,0.0
+gender_concept_id,condition_concept_id,Code identifying a condition diagnosis,0.0
+procedure_1_name,condition_concept_id,Code identifying a condition diagnosis,0.0
+gender_concept_id,procedure_concept_id,Code identifying a medical procedure,0.0
+gender_concept_id,observation_concept_id,Clinical observation or finding,0.0
+observation_2_name,procedure_concept_id,Code identifying a medical procedure,0.0
+race_concept_id,observation_concept_id,Clinical observation or finding,0.0
+observation_2_name,condition_concept_id,Code identifying a condition diagnosis,0.0
+race_concept_id,year_of_birth,Year the person was born,0.0
+race_concept_id,condition_concept_id,Code identifying a condition diagnosis,0.0
+observation_1_name,procedure_concept_id,Code identifying a medical procedure,0.0
+year_of_birth,observation_concept_id,Clinical observation or finding,0.0
+race_concept_id,procedure_concept_id,Code identifying a medical procedure,0.0
+race_concept_id_name,gender_concept_id,Gender of the person,0.0
+gender_concept_id_name,observation_concept_id,Clinical observation or finding,0.0
+gender_concept_id_name,procedure_concept_id,Code identifying a medical procedure,0.0
+condition_2,condition_concept_id,Code identifying a condition diagnosis,0.0
+observation_1,observation_concept_id,Clinical observation or finding,0.0
+observation_1,procedure_concept_id,Code identifying a medical procedure,0.0
+observation_1,condition_concept_id,Code identifying a condition diagnosis,0.0
+observation_1,year_of_birth,Year the person was born,0.0
+observation_1,race_concept_id,Race or ethnicity of the person,0.0
+observation_1,gender_concept_id,Gender of the person,0.0
+condition_2,observation_concept_id,Clinical observation or finding,0.0
+condition_2,procedure_concept_id,Code identifying a medical procedure,0.0
+condition_2,year_of_birth,Year the person was born,0.0
+gender_concept_id_name,condition_concept_id,Code identifying a condition diagnosis,0.0
+condition_2,race_concept_id,Race or ethnicity of the person,0.0
+condition_2,gender_concept_id,Gender of the person,0.0
+condition_1,observation_concept_id,Clinical observation or finding,0.0
+condition_1,procedure_concept_id,Code identifying a medical procedure,0.0
+condition_1,condition_concept_id,Code identifying a condition diagnosis,0.0
+condition_1,year_of_birth,Year the person was born,0.0
+condition_1,race_concept_id,Race or ethnicity of the person,0.0
+condition_1,gender_concept_id,Gender of the person,0.0
+observation_2,gender_concept_id,Gender of the person,0.0
+observation_2,race_concept_id,Race or ethnicity of the person,0.0
+observation_2,year_of_birth,Year the person was born,0.0
+observation_2,condition_concept_id,Code identifying a condition diagnosis,0.0
+gender_concept_id_name,year_of_birth,Year the person was born,0.0
+gender_concept_id_name,race_concept_id,Race or ethnicity of the person,0.0
+gender_concept_id_name,gender_concept_id,Gender of the person,0.0
+procedure_2,observation_concept_id,Clinical observation or finding,0.0
+procedure_2,procedure_concept_id,Code identifying a medical procedure,0.0
+gender_concept_id,race_concept_id,Race or ethnicity of the person,0.0
+procedure_2,year_of_birth,Year the person was born,0.0
+procedure_2,race_concept_id,Race or ethnicity of the person,0.0
+procedure_2,gender_concept_id,Gender of the person,0.0
+procedure_1,observation_concept_id,Clinical observation or finding,0.0
+procedure_1,procedure_concept_id,Code identifying a medical procedure,0.0
+procedure_1,condition_concept_id,Code identifying a condition diagnosis,0.0
+procedure_1,year_of_birth,Year the person was born,0.0
+procedure_1,race_concept_id,Race or ethnicity of the person,0.0
+procedure_1,gender_concept_id,Gender of the person,0.0
+observation_2,observation_concept_id,Clinical observation or finding,0.0
+observation_2,procedure_concept_id,Code identifying a medical procedure,0.0
+procedure_2,condition_concept_id,Code identifying a condition diagnosis,0.0
