@@ -9,5 +9,5 @@ Tutti i passaggi sono inclusi nel file `main.py`, che esegue l'intero flusso:
 - Matching tra schemi con metodi istanza-based e semantici
 - Valutazione del trade-off privacy-utilità
 
-Il file `my_gcp_credentials.json` necessario per accedere a BigQuery **non è stato caricato su GitHub** per motivi di sicurezza. Assicurati di averlo localmente e di specificarne il percorso corretto nei tuoi script.
+Il file `my_gcp_credentials.json` necessario per accedere a BigQuery **non è stato caricato su GitHub** per motivi di sicurezza. Necessario assicurarsi di averlo localmente e di specificarne il percorso corretto nei vari script.
 
